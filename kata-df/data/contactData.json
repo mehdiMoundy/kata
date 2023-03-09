@@ -1,0 +1,15 @@
+[
+    {
+        "flag": "flagFrance",
+        "societyName": "Cetelem FRANCE",
+        "direction": "143-145 Rue Anatole France \n92300 Levallois-Perret \nFrance",
+        "id": 1001
+    },
+    {
+        "flag": "flagEspagne",
+        "societyName": "Cetelem ESPANA",
+        "direction": "PASEO DE LOS MELANCOLICOS 14 A\nMADRID",
+        "id": 1002
+       
+    }
+]
